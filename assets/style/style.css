@@ -705,6 +705,10 @@ body{
     gap: 1rem;
   }
 
+  .contact-us-section{
+    min-height: 100vh;
+  }
+
   .price-section-left{
     order: 1;
   }
