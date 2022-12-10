@@ -706,7 +706,7 @@ body{
   }
 
   .contact-us-section{
-    min-height: 100vh;
+    max-height: 100vh;
   }
 
   .price-section-left{
